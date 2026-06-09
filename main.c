@@ -1,6 +1,6 @@
 #include <LPC21xx.h>
 
-#include "lcddisp.h"
+#include "display.h"
 #include "uart01.h"
 
 #define MOTOR  (1<<4)      // Active LOW LED/Motor
