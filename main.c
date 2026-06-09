@@ -2,7 +2,6 @@
 
 #include "lcddisp.h"
 #include "uart01.h"
-#include "delay.h"
 
 #define MOTOR  (1<<4)      // Active LOW LED/Motor
 #define SOIL   (1<<5)      // Soil Sensor Digital Output
